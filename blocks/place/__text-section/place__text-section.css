@@ -1,0 +1,9 @@
+.place__text-section{
+    width: calc(100% - 32px);
+    min-width: 288px;
+}
+@media (min-width: 768px) {
+    .place__text-section{
+            width: 100%;
+        }
+}

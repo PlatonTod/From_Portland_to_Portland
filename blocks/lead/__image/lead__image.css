@@ -1,0 +1,14 @@
+.lead__image{
+    width: 100%;
+}
+@media (min-width: 1280px) {
+    .lead__image{
+            width: calc(100% - 96px);
+            max-width: 984px;
+        }
+}
+@media (min-width: 1024px) {
+    .lead__image{
+            width: calc(100% - 48px);
+        }
+}
