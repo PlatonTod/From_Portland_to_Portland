@@ -33,6 +33,8 @@ git clone https://github.com/PlatonTod/From_Portland_to_Portland.git
 cd From_Portland_to_Portland
 ```
 
+3. Open the `index.html` file in your preferred web browser to access the website.
+
 ## Journey Overview
 
 - **Distance (miles):** 3,644
